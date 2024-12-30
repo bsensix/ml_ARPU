@@ -13,7 +13,7 @@ O problema consiste em desenvolver um modelo de recomendação para ofertar cupo
   - `transactions.json`: Contém informações sobre as transações realizadas pelos clientes.
 
 - `models`
-  - `-ifooddesafio-2.ipynb`: Notebook Jupyter com a análise e desenvolvimento do modelo de recomendação.
+  - `-ETL_data.ipynb`: Notebook Jupyter com o processo de tratamento dos dados.
   - `modelo-de-recomendacao.ipynb`: Notebook Jupyter com a análise e desenvolvimento do modelo de recomendação.
   
 
